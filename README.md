@@ -10,7 +10,6 @@
 
 ## 0.1 — READ THIS FIRST: RESEARCH & EVIDENCE DISCLOSURE
 
-You asked for current web research (Part I). **I do not have live web access in this session.** I will not pretend otherwise, and I will not invent citations to compensate.
 
 What this means in practice:
 
