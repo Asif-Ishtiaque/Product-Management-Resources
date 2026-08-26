@@ -1,4 +1,4 @@
-# THE ADVANCED PRODUCT MANAGEMENT STUDY BOOK
+# THE ADVANCED PRODUCT MANAGEMENT STUDY MATERIALS
 ### A practitioner-grade curriculum for PM → Senior PM → Technical PM → Platform PM → AI PM → Product Lead → GPM
 
 **Version:** 1.0 (Volume I released)
