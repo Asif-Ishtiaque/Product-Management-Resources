@@ -141,7 +141,7 @@ Each entry: **Problem → Warning signs → Consequences → Better practice.**
 **Consequences.** Meeting overhead without adaptability. Cynicism. The process becomes the thing being protected.
 **Better practice.** For each ceremony, name the decision it produces. Delete any that produce none. Volume IV's mechanism test applies: what fails, visibly, if it's skipped?
 
----
+----
 
 ### A5 — SOLUTIONISM
 **Problem.** Jumping to a solution before the problem is understood, because proposing solutions is socially rewarded and questioning problems isn't.
@@ -149,7 +149,7 @@ Each entry: **Problem → Warning signs → Consequences → Better practice.**
 **Consequences.** You build the customer's guess instead of solving their need. Requests multiply because each solution creates adjacent gaps.
 **Better practice.** The conversion ladder on every request (Vol II §7.1). A problem statement section that can't be skipped.
 
----
+----
 
 ### A6 — HiPPO DECISION MAKING
 **Problem.** The Highest Paid Person's Opinion decides, and evidence is gathered afterward to support it.
